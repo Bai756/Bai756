@@ -1,0 +1,2 @@
+- Hi, I’m @Bai756
+- I'm currently learning about programming
