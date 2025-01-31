@@ -1,3 +1,3 @@
 - Hi, I’m @Bai756
 - I'm currently learning about programming
-- I like using python and am interested in AI
+- I main language is python and am interested in AI
