@@ -1,3 +1,4 @@
 - Hi, I’m @Bai756
-- I'm currently learning about programming
-- I main language is python and am interested in AI
+- My main language is python, but am also proficient in Java
+- I created lots of AI and machine learning projects, and some quantum computing projects
+- Check out my quantum chess project!
