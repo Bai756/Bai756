@@ -1,4 +1,3 @@
 - Hi, I’m @Bai756
-- My main language is python, but am also proficient in Java
-- I created lots of AI and machine learning projects, and some quantum computing projects
-- Check out my quantum chess project!
+- Languages: Python, Java
+- Interested in AI, RL, and computer vision
