@@ -1,3 +1,3 @@
-- Hi, I’m @Bai756
-- Languages: Python, Java
-- Interested in AI, RL, and computer vision
+- Hi, I’m En
+- Interested in AI and computer vision
+- Languages: Python, Java, Javascript
